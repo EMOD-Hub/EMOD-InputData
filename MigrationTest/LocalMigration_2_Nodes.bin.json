@@ -6,7 +6,7 @@
         "DateCreated": "Tue Nov  3 13:05:24 2015", 
         "NodeCount": 2, 
         "MigrationType": "LOCAL_MIGRATION", 
-        "DestinationsPerNode": 8
+        "DatavalueCount": 8
     }, 
     "NodeOffsets": "00000001000000000000000200000060"
 }

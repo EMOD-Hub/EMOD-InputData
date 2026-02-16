@@ -25,7 +25,48 @@
                 "Values": [ "Yes", "No" ],
                 "Initial_Distribution": [ 0.8, 0.2],
                 "Transitions": []
-            } ],
+            },
+            { 
+                "Property": "InterventionStatus",
+                "Values": [
+                    "None", 
+                    "ARTStaging", 
+                    "ARTStagingDiagnosticTest", 
+                    "LinkingToART", 
+                    "LinkingToPreART", 
+                    "OnART", 
+                    "OnPreART", 
+                    "HCTTestingLoop", 
+                    "HCTUptakeAtDebut", 
+                    "HCTUptakePostDebut", 
+                    "HomeTesting", 
+                    "HomeTestingDelayFromStaging", 
+                    "TestingOnANC", 
+                    "TestingOnChild6w", 
+                    "TestingOnSymptomatic", 
+                    "LostForever"
+                ],
+                "Initial_Distribution": [
+                    1,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "Transitions": []
+            }
+        ],
         "IndividualAttributes": 
         { 
             "FertilityDistribution": 
@@ -190,9 +231,9 @@
             "AgeDistribution1": 10220,
             "AgeDistribution2_Note": "Kappa",
             "AgeDistribution2": 1.05,
-            "ImmunityDistributionFlag": 0,
-            "ImmunityDistribution1": 1,
-            "ImmunityDistribution2": 0
+            "SusceptibilityDistributionFlag": 0,
+            "SusceptibilityDistribution1": 1,
+            "SusceptibilityDistribution2": 0
         }
     },
     "Nodes": [ 

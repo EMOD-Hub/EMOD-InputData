@@ -39,6 +39,3 @@ To download the complete files from this archived repository, follow these steps
 
 **Important:** The GitHub "Download .ZIP" button will NOT include the actual binary data from LFS-managed files. You must use Git and follow the steps above to download the complete input data files.
 
-## Project Management
-
-<a href="https://zenhub.com"><img src="https://raw.githubusercontent.com/ZenHubIO/support/master/zenhub-badge.png"></a>

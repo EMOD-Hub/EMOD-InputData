@@ -9,7 +9,10 @@
           "UpdateResolution": "CLIMATE_UPDATE_DAY",
           "OriginalDataYears": "n/a",
           "StartDayOfYear": "January 1",
-          "DataProvenance": "Constant 60% humidity"
+          "DataProvenance": "Constant 60% humidity",
+		  "WeatherSchemaVersion": "2.0",
+		  "WeatherCellCount": 1,
+		  "NumberDTKNodes": 1
      }, 
      "NodeOffsets": "144B07A400000000"
 }

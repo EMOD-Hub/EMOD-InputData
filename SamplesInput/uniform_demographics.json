@@ -29,9 +29,9 @@
                 "PrevalenceDistributionFlag": 0, 
                 "PrevalenceDistribution1": 0.0, 
                 "PrevalenceDistribution2": 0.0, 
-                "ImmunityDistributionFlag": 0, 
-                "ImmunityDistribution1": 1, 
-                "ImmunityDistribution2": 0, 
+                "SusceptibilityDistributionFlag": 0, 
+                "SusceptibilityDistribution1": 1, 
+                "SusceptibilityDistribution2": 0, 
                 "RiskDistributionFlag": 0, 
                 "RiskDistribution1": 1, 
                 "RiskDistribution2": 0, 
@@ -46,7 +46,7 @@
                     "NumPopulationGroups": [ 2, 3 ],
                     "PopulationGroups": [
                         [ 0, 1 ],
-                        [ 0, 55, 55 ]
+                        [ 0, 55, 55.0001 ]
                     ],
                     "ResultUnits": "deaths per day",
                     "ResultScaleFactor": 1,

@@ -9,7 +9,10 @@
           "UpdateResolution": "CLIMATE_UPDATE_DAY",
           "OriginalDataYears": "1971-1972",
           "StartDayOfYear": "November 1",
-          "DataProvenance": "Data obtained from Garki Project Report with 0.1 mm/day added during dry season, repeated 10 years"
+          "DataProvenance": "Data obtained from Garki Project Report with 0.1 mm/day added during dry season, repeated 10 years",
+		  "WeatherSchemaVersion": "2.0",
+		  "WeatherCellCount": 1,
+		  "NumberDTKNodes": 1
      }, 
      "NodeOffsets": "144B07A400000000"
 }

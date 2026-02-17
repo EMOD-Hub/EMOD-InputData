@@ -15,7 +15,10 @@
          "UpperLeftLatitude": "-7",
          "UpperLeftLongitude": "20",
          "LowerRightLatitude": "-20",
-         "LowerRightLongitude": "35"
+         "LowerRightLongitude": "35",
+		 "WeatherSchemaVersion": "2.0",
+		 "WeatherCellCount": 1,
+		 "NumberDTKNodes": 1
     },
     "NodeOffsets": "137506D700000000"
 }

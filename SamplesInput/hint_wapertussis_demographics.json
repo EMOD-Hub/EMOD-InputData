@@ -32,9 +32,9 @@
             "RiskDistribution1": 1, 
             "RiskDistribution2": 0, 
 
-            "ImmunityDistributionFlag": 0, 
-            "ImmunityDistribution1": 1, 
-            "ImmunityDistribution2": 0, 
+            "SusceptibilityDistributionFlag": 0, 
+            "SusceptibilityDistribution1": 1, 
+            "SusceptibilityDistribution2": 0, 
 
             "MigrationHeterogeneityDistributionFlag": 0, 
             "MigrationHeterogeneityDistribution1": 1, 

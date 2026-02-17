@@ -1,0 +1,12 @@
+{
+    "Metadata": {
+        "Author": "dbridenbecker", 
+        "Tool": "convert_txt_to_bin.py", 
+        "IdReference": "0", 
+        "DatavalueCount": 2, 
+        "DateCreated": "Mon Dec  4 15:49:09 2017", 
+        "NodeCount": 3, 
+        "MigrationType": "SEA_MIGRATION"
+    }, 
+    "NodeOffsets": "000000010000000000000002000000180000000300000030"
+}

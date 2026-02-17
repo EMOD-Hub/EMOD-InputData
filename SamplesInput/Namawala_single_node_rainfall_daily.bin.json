@@ -9,7 +9,10 @@
           "UpdateResolution": "CLIMATE_UPDATE_DAY",
           "OriginalDataYears": "1990-1999",
           "StartDayOfYear": "January 1",
-          "DataProvenance": "Data obtained from Global Precipitation Climatology Centre"
+          "DataProvenance": "Data obtained from Global Precipitation Climatology Centre",
+		  "WeatherSchemaVersion": "2.0",
+		  "WeatherCellCount": 1,
+		  "NumberDTKNodes": 1
      }, 
      "NodeOffsets": "144B07A400000000"
 }

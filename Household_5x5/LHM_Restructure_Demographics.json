@@ -52,18 +52,6 @@
                     "funestus": 30,
                     "gambiae": 40
                 },
-                                "LarvalHabitatMultiplier": [
-                    {
-                        "Factor": 0.5,
-                        "Habitat": "TEMPORARY_RAINFALL",
-                        "Species": "arabiensis"
-                    },
-                                        {
-                        "Factor": 3,
-                        "Habitat": "TEMPORARY_RAINFALL",
-                        "Species": "gambiae"
-                    }
-                ],
                 "Latitude": 0,
                 "Longitude": 0
             },

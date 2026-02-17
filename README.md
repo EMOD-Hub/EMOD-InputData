@@ -2,17 +2,18 @@
 
 ## ⚠️ REPOSITORY ARCHIVED ⚠️
 
-**This repository has been retired and is no longer actively maintained.** 
+**This repository is no longer needed for EMOD development and has been archived.**
 
-Input files previously stored here and are now included directly with the [EMOD project](https://github.com/EMOD-Hub/EMOD). Please refer to the main EMOD repository for all current input data files.
+The input files in this repository were previously used for EMOD regression tests and Scientific Feature Tests (SFTs). All actively used files have now been migrated to the main [EMOD repository](https://github.com/EMOD-Hub/EMOD).
+
+**For current input data files, please refer to the [EMOD project repository](https://github.com/EMOD-Hub/EMOD).**
 
 ---
 
 ## Historical Information
 
-This repository previously contained input files needed to run tests in the Regression folder of the EMOD-Hub/EMOD project. 
+The files remaining here are either duplicates of what's in [EMOD repository](https://github.com/EMOD-Hub/EMOD) or are outdated or no longer in active use.
 
-**Note:** This repository also contains some input files that are no longer actively used and may be out of date.
 
 ### Important: Large File Storage (LFS)
 

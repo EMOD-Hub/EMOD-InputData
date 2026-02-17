@@ -15,7 +15,10 @@
         "Tool": "MergeNodes.exe", 
         "UpdateResolution": "CLIMATE_UPDATE_DAY", 
         "UpperLeftLatitude": "-8", 
-        "UpperLeftLongitude": "21"
+        "UpperLeftLongitude": "21",
+		 "WeatherSchemaVersion": "2.0",
+		 "WeatherCellCount": 1,
+		 "NumberDTKNodes": 1
     }, 
     "NodeOffsets": "137506D700000000"
 }

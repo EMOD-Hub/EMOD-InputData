@@ -1,15 +1,42 @@
 # EMOD-InputData
-Full set of input data files for use with the EMOD disease modeling software. 
 
-## *Important*
-This repository uses [LFS](https://git-lfs.github.com/) (large file storage) to manage the binaries and large JSON file(s). Note that a standard clone of the repository will only retrieve the metadata about these files managed with LFS. In order to retrieve the actual data, please follow these steps:
+## ⚠️ REPOSITORY ARCHIVED ⚠️
 
-1. `git clone https://github.com/InstituteforDiseaseModeling/EMOD-InputData.git` (standard clone command)
-2. `git lfs fetch` (caches the actual data on your local machine)
-3. `git lfs checkout` (replaces the metadata in the files with the actual contents)
+**This repository is no longer needed for EMOD development and has been archived.**
 
-*Additional Note:* the GitHub "Download .ZIP" button will not package and deliver the actual binary data of the LFS managed files. You will need to use Git and follow the steps listed above in order to download the input data files.
+The input files in this repository were previously used for EMOD regression tests and Scientific Feature Tests (SFTs). All actively used files have now been migrated to the main [EMOD repository](https://github.com/EMOD-Hub/EMOD).
 
-For more information on downloading and using these files, see the EMOD software documentation at [https://institutefordiseasemodeling.github.io/EMOD/](https://institutefordiseasemodeling.github.io/EMOD/).
+**For current input data files, please refer to the [EMOD project repository](https://github.com/EMOD-Hub/EMOD).**
 
-<a href="https://zenhub.com"><img src="https://raw.githubusercontent.com/ZenHubIO/support/master/zenhub-badge.png"></a>
+---
+
+## Historical Information
+
+The files remaining here are either duplicates of what's in [EMOD repository](https://github.com/EMOD-Hub/EMOD) or are outdated or no longer in active use.
+
+
+### Important: Large File Storage (LFS)
+
+This repository uses [Git LFS](https://git-lfs.github.com/) (Large File Storage) to manage binaries and large JSON files. A standard clone will only retrieve metadata about these files, not the actual data.
+
+### Retrieving the Actual Data
+
+To download the complete files from this archived repository, follow these steps:
+
+1. Clone the repository:
+```bash
+   git clone https://github.com/EMOD-Hub/EMOD-InputData.git
+```
+
+2. Fetch the LFS data:
+```bash
+   git lfs fetch
+```
+
+3. Check out the actual file contents:
+```bash
+   git lfs checkout
+```
+
+**Important:** The GitHub "Download .ZIP" button will NOT include the actual binary data from LFS-managed files. You must use Git and follow the steps above to download the complete input data files.
+
